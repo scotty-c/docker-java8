@@ -1,4 +1,4 @@
-#Java
+#Java 8
 scottyc/java
 
 A simple Java 8 container in CentOS 7.
